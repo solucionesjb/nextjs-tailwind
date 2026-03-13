@@ -1,3 +1,4 @@
+'use server'
 import { ProductoModel } from "@/models/producto-model";
 
 export async function GetProductosAction() {
